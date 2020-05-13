@@ -35,7 +35,7 @@ using the source code in this repository.
 
 2. Now give the following commands step-by-step:
 
-		git clone git://github.com/sarim/ibus-avro.git
+		git clone git://github.com/blacklight31/blacklight.git
 		cd ibus-avro
 		aclocal && autoconf && automake --add-missing
 		./configure --prefix=/usr
